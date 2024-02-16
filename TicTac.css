@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    background-color: rgb(163, 212, 255);
+    font-size: xx-large;
+    border-radius: 12px;
+    padding: 50px 50px;
+    border-style: hidden;
+
+}
