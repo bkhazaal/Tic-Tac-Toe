@@ -50,4 +50,5 @@ function changePlayer() {
     statusText.textContent = `${currentPlayer}'s turn`;
 
 }
+
 });
